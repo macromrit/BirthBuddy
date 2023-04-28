@@ -1,2 +1,2 @@
 # BirthBuddy
-A topic on childcare-pregnancy advisory using large language models
+A product-based project on childcare-pregnancy advisory using large language models
